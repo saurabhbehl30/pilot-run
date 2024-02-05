@@ -4,7 +4,7 @@ public class AnagramRandom {
 
     public static void main(String[] args) {
 
-        String word = "silent";
+        String word = "silentt";
         String anagram = "listedn";
 
         if (word.length() != anagram.length()) {
