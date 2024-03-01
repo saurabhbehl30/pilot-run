@@ -1,0 +1,7 @@
+## 2PC works as a single commit and aims to perform ACID transactions on distributed systems.
+ It is used wherever strong consistency is important. On the other hand, SAGA works sequentially,
+  not as a single commit. Each operation gets committed before the subsequent one, and this makes
+  the data eventually consistent.
+
+
+##

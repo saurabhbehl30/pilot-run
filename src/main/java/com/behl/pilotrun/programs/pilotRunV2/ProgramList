@@ -1,0 +1,112 @@
+Certainly! Here are a few Java coding questions that involve algorithms:
+
+1. **Reverse a String:**
+   Write a Java program to reverse a given string without using any library functions.
+
+2. **Palindrome Check:**
+   Implement a function to check if a given string is a palindrome (reads the same backward as forward).
+
+3. **FizzBuzz:**
+   Write a program that prints the numbers from 1 to 100. But for multiples of 3, print "Fizz" instead of the number, and for the multiples of 5, print "Buzz". For numbers that are multiples of both three and five, print "FizzBuzz".
+
+4. **Factorial Calculation:**  MATHS
+   Write a Java program to calculate the factorial of a given number using both iterative and recursive methods.
+
+5. **Find Maximum Subarray Sum:** MATHS
+   Given an array of integers, find the contiguous subarray with the largest sum. Implement the Kadane's algorithm.
+
+6. **Binary Search:**
+   Implement a binary search algorithm to find the index of a specific element in a sorted array.
+
+7. **Linked List Reversal:**
+   Write a Java program to reverse a singly linked list.
+
+11. **Anagram Check:**
+    Write a function to check if two strings are anagrams of each other.
+
+12. **Longest Common Prefix:**
+    Given an array of strings, find the longest common prefix among them.
+    ANAGRAM, ANASTHESIA, ANT, ANTELOPE, ANYTHING
+    // SORT..  FIRST AND LAST MIN LENGTH -- COMMON... IS THE ANSWER
+
+
+
+
+
+Feel free to use these questions to practice your algorithmic and programming skills in Java.
+
+Certainly! Here are some more Java coding questions related to algorithms:
+
+13. **Two Sum:**
+    Given an array of integers, find two numbers such that they add up to a specific target. Implement the `twoSum` function.
+
+14. **Valid Parentheses:**
+    Write a function to determine if a string containing only the characters '(', ')', '{', '}', '[' and ']' is valid. The string is valid if the brackets are closed in the correct order.
+
+15. **Counting Sort:**
+    Implement the counting sort algorithm to sort an array of positive integers.
+
+17. **Power Function:** MATHS
+    Write a function to calculate the power of a number (x^n) using both iterative and recursive methods.
+
+18. **Find Missing Number:** MATHS
+    Given an array containing n distinct numbers taken from 0, 1, 2, ..., n, find the one that is missing from the array.
+
+19. **Implement a Stack using Queues:**
+    Implement a stack using two queues.
+
+22. **Maximum Subarray Product:**
+    Given an array of integers, find the contiguous subarray with the maximum product.
+
+23. **Top K Frequent Elements:**
+    Given an array, find the k most frequent elements.
+
+24. **Implement Trie (Prefix Tree):**
+    Implement a trie with insert, search, and delete operations.
+
+25. **Minimum Depth of Binary Tree:**
+    Given a binary tree, find the minimum depth (the shortest path from the root node to the nearest leaf node).
+
+These questions cover a variety of algorithmic concepts and data structures. Feel free to explore them and enhance your problem-solving skills in Java.
+
+
+
+Certainly! Here are a few more Java coding questions for algorithm practice:
+
+26. **String Compression:**
+    Implement a method to perform basic string compression using the counts of repeated characters. If the compressed string is not smaller than the original, return the original string.
+
+27. **Merge Intervals:**
+    Given a collection of intervals, merge any overlapping intervals.
+
+28. **Longest Increasing Subsequence:**
+    Given an unsorted array of integers, find the length of the longest increasing subsequence.
+
+29. **Valid Sudoku:**
+    Determine if a 9x9 Sudoku board is valid. The rules are: each row, each column, and each of the nine 3x3 sub-grids that compose the grid must contain all the digits from 1 to 9 without repetition.
+
+30. **Word Ladder:**
+    Given two words, beginWord and endWord, and a dictionary of word lists, find the length of the shortest transformation sequence from beginWord to endWord. Each transformation must change exactly one letter at a time, and each transformed word must exist in the word list.
+
+31. **Minimum Window Substring:**
+    Given a string S and a string T, find the minimum window in S that contains all the characters of T in complexity O(n).
+
+32. **Number of Islands:**
+    Given a 2D grid map of '1's (land) and '0's (water), count the number of islands. An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically.
+
+33. **House Robber:**
+    Given an array representing the money in each house, determine the maximum amount you can rob without alerting the police. Houses are arranged in a circle.
+
+34. **Find the Celebrity:**
+    Suppose you are at a party with n people, and among them, there may exist one celebrity. A celebrity is defined as someone who knows no one but is known by everyone. Write a function to find the celebrity if it exists.
+
+35. **Trapping Rain Water:**
+    Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
+
+36. **Maximum Depth of Binary Tree:**
+    Given a binary tree, find its maximum depth. The maximum depth is the length of the longest path from the root node to a leaf node.
+
+37. **Word Break:**
+    Given a non-empty string s and a dictionary wordDict containing a list of non-empty words, determine if s can be segmented into a space-separated sequence of one or more dictionary words.
+
+Feel free to explore these Java coding questions to further enhance your algorithmic and problem-solving skills!xs
