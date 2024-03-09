@@ -22,8 +22,9 @@ public class SortingArray {
 
         int[] inputArray2 = {3, 2, 4, 1, 6, 5};
 
+
         System.out.println(" Using One Loop");
-        for (int i = 0; i < inputArray2.length - 1; i++) {
+        for (int i = 0; i < inputArray2.length ; i++) {
             if (inputArray2[i] > inputArray2[i + 1]) {
                 int temp = inputArray2[i];
                 inputArray2[i] = inputArray2[i + 1];

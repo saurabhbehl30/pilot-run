@@ -6,27 +6,21 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 interface A {
-    default void foo() {
-        System.out.println("A's foo");
-    }
+     void foo();
 }
 
 interface B {
-    default void foo() {
-        System.out.println("B's foo");
-    }
+     void foo();
 }
 
 interface C {
-    default void foo() {
-        System.out.println("C's foo");
-    }
+     void foo();
 }
 
 class D implements B, C {
     @Override
     public void foo() {
-        B.super.foo();
+        System.out.println("hhhh");
     }
 
     // No need to provide an implementation for foo

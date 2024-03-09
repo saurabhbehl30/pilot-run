@@ -16,7 +16,7 @@ public class RemoveDuplicatesFromSortedArray {
             }
         }
 
-        int[] ss = Arrays.copyOf(array, count );
+        int[] ss = Arrays.copyOf(array, count);
         System.out.println(Arrays.toString(ss));
     }
 }

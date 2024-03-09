@@ -1,7 +1,11 @@
 package com.behl.pilotrun.dto;
 
+import jakarta.persistence.Version;
+
 public class Tiger {
 
+    @Version
+    private int version; // T
     private String name;
     private Integer age;
     private String breed;

@@ -12,6 +12,7 @@ public class LongestSubstringString {
              builder.append(string.charAt(i));
             for (int j = i + 1  ; j <= string.length() -1 ; j ++) {
                 if (string.charAt(i) != string.charAt(j)) {
+
                     builder.append(string.charAt(j));
                     if(j == string.length() -1 ) {
                        System.out.println(builder.toString());
